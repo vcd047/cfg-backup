@@ -21,7 +21,7 @@
     "Red Component" : 0.91654461622238159,
     "Blue Component" : 0.91648769378662109
   },
-  "Normal Font" : "CascadiaCodePL-SemiLight 16",
+  "Normal Font" : "JetBrainsMono-Regular 16",
   "Link Color" : {
     "Red Component" : 0,
     "Color Space" : "sRGB",
@@ -30,7 +30,7 @@
     "Green Component" : 0.35915297269821167
   },
   "Transparency" : 0,
-  "Rows" : 40,
+  "Rows" : 60,
   "Default Bookmark" : "No",
   "Guid" : "C83EAE2B-A961-476B-93AE-C475162BFE15",
   "Cursor Guide Color" : {
@@ -82,7 +82,7 @@
     "Red Component" : 0.30659490823745728,
     "Blue Component" : 0.47096589207649231
   },
-  "Columns" : 150,
+  "Columns" : 180,
   "Idle Code" : 0,
   "Ansi 13 Color" : {
     "Green Component" : 0.40164706110954285,
@@ -92,7 +92,7 @@
   "Title Components" : 512,
   "Custom Command" : "No",
   "ASCII Anti Aliased" : true,
-  "Non Ascii Font" : "CascadiaCodePL-SemiLight 16",
+  "Non Ascii Font" : "JetBrainsMono-Regular 16",
   "Vertical Spacing" : 1,
   "Use Bold Font" : true,
   "Option Key Sends" : 0,
@@ -114,7 +114,7 @@
   },
   "Thin Strokes" : 1,
   "Use Italic Font" : true,
-  "Unlimited Scrollback" : false,
+  "Unlimited Scrollback" : true,
   "Keyboard Map" : {
     "0xf700-0x260000" : {
       "Text" : "[1;6A",
@@ -314,6 +314,7 @@
     }
   },
   "Window Type" : 0,
+  "Blink Allowed" : false,
   "Background Image Location" : "",
   "Blur" : false,
   "Badge Color" : {
