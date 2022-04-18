@@ -1,0 +1,6 @@
+-Dhttp.proxyHost
+-Dhttp.proxyPort
+-Dhttps.proxyHost
+-Dhttps.proxyPort
+-DsocksProxyHost
+-DsocksProxyPort
