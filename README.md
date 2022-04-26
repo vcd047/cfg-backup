@@ -2,7 +2,7 @@
 
 常用的依赖配置
 
-## TOC
+---
 
 - [git commit format](./CommitFormat.md)
 - [maven](./maven/)
